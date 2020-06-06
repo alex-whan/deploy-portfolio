@@ -1,6 +1,9 @@
+## Portfolio Live Link via Heroku:
+https://alex-whan-portfolio.herokuapp.com/
+
 # Lab 04b: RWD Portfolio
 
-## Overview
+### Overview
 
 For today's lab assignment, you will work independently to create a personal portfolio. You will begin with the provided starter code and modify the contents to complete your feature tasks. Take time to review the provided code base and understand its structure before adding features.
 
@@ -19,6 +22,8 @@ For today's lab assignment, you will work independently to create a personal por
 ## User Acceptance Tests
 
 ### Time Estimate
+
+#### Lab 04b: RWD Portfolio
 
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
@@ -47,6 +52,9 @@ For each of the features listed below, make an estimate of the time it will take
 **Actual time needed to complete**: 45 min
 
 ```
+
+#### Lab 05: Deploy & Extend Your Portfolio
+
 ```
 **Number and name of feature**: Feature #3 - Deployment
 
@@ -54,12 +62,23 @@ For each of the features listed below, make an estimate of the time it will take
 
 **Start time**: 4:15 pm
 
+**Finish time**: 5:25pm
+
+**Actual time needed to complete**: 1hr 10min
+
+```
+```
+**Number and name of feature**: Feature #4 - Add Functionality
+
+**Estimate of time needed to complete**: 1 hr
+
+**Start time**: 5:30 pm
+
 **Finish time**:
 
 **Actual time needed to complete**:
 
 ```
-
 
 
 Add this information to your README.
