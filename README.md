@@ -72,11 +72,11 @@ For each of the features listed below, make an estimate of the time it will take
 
 **Estimate of time needed to complete**: 1 hr
 
-**Start time**: 5:30 pm
+**Start time**: 6:45 am
 
-**Finish time**:
+**Finish time**: 7:45 am
 
-**Actual time needed to complete**:
+**Actual time needed to complete**: 1 hr
 
 ```
 
